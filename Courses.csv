@@ -1,0 +1,27 @@
+CourseCode,CourseName,Semester,Year,Grade,Program,PercentGrade
+CP104,"Intro to Programming",Fall,2023,A,"Computer Science",90
+CP164,"Data Structures I",Winter,2024,B+,"Computer Science",78
+CP213,"Object-Oriented Programming",Fall,2024,B-,"Computer Science",72
+CP214,"Discrete Struct for Comp Sci",Fall,2024,B,"Computer Science",75
+CP216,"Intro to Microprocessors",Winter,2025,B,"Computer Science",75
+CP220,"Digital Electronics",Fall,2024,A,"Computer Science",90
+CP264,"Data Structures II",Winter,2025,B+,"Computer Science",78
+CP363,"Database I",Fall,2025,NULL,"Computer Science",NULL
+CP372,"Computer Networks",Fall,2025,NULL,"Computer Science",NULL
+CP386,"Operating Systems",Fall,2025,NULL,"Computer Science",NULL
+DD101,"Critical Play",Fall,2023,B+,"Game Design and Development",78
+DD102,"Critical Game Design I",Winter,2024,A,"Game Design and Development",90
+EM202,"The Educational Divide",Spring,2024,A,"Education Minor",90
+EM203,"Learn 280 Characters or Less",Fall,2024,A,"Education Minor",90
+EM300,"Teaching in Non-School Context",Spring,2025,A-,"Education Minor",83
+ES274,"One Earth, One Health",Winter,2025,B,"Environmental Studies",75
+MA103,"Calculus I",Fall,2023,B,Mathematics,75
+MA122,"Intro-Linear Algebra",Fall,2023,B,Mathematics,75
+OL200,"Comm Skills for Leadership",Fall,2024,B,Leadership,75
+OL224,"Organizational Leadership",Winter,2025,B,Leadership,75
+PP110,"Values & Society",Winter,2024,C+,Philosophy,68
+PS101,"Introduction to Psychology I",Fall,2023,C,Psychology,65
+RE103,"Love and Its Myths",Spring,2024,B,"Religion and Culture",75
+RE104,"Evil and Its Symbols",Winter,2024,A-,"Religion and Culture",83
+RE313,"Grief, Death & Dying",Spring,2024,A-,"Religion and Culture",83
+ST230,Probability,Fall,2025,NULL,Mathematics,NULL
